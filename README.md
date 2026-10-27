@@ -66,7 +66,7 @@ Read in this order:
 
 ## Skills for agents
 
-The [`skills/`](skills/) directory contains `SKILL.md` files you can drop into an agent's skill catalog (Claude Code, Codex, Cursor, custom agents):
+The [`skills/`](skills/) directory contains `SKILL.md` files (see the [skills README](skills/README.md) for installation) you can drop into an agent's skill catalog (Claude Code, Codex, Cursor, custom agents):
 
 | Skill | Use when |
 |---|---|
