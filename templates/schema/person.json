@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://example.com/#founder",
+  "name": "Founder Name",
+  "jobTitle": "Founder",
+  "url": "https://example.com/about",
+  "worksFor": { "@id": "https://example.com/#organization" },
+  "knowsAbout": ["topic one", "topic two"],
+  "sameAs": [
+    "https://github.com/example",
+    "https://www.linkedin.com/in/example"
+  ]
+}

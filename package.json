@@ -1,0 +1,50 @@
+{
+  "name": "agent-seo",
+  "version": "0.1.0",
+  "description": "Agent-first SEO toolkit: playbook, skills, audit CLI and templates for technical SEO, content, programmatic pages and AI search.",
+  "type": "module",
+  "bin": {
+    "agent-seo": "./bin/seo.mjs",
+    "seo": "./bin/seo.mjs"
+  },
+  "files": [
+    "bin",
+    "commands",
+    "lib",
+    "docs",
+    "skills",
+    "templates",
+    "AGENTS.md",
+    "CHEATSHEET.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "audit": "node bin/seo.mjs audit",
+    "crawl": "node bin/seo.mjs crawl",
+    "llms": "node bin/seo.mjs llms"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "seo",
+    "agent-readiness",
+    "llms-txt",
+    "geo",
+    "generative-engine-optimization",
+    "search-console",
+    "indexnow"
+  ],
+  "license": "MIT",
+  "author": "Martin Tøndel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martintondel02/agent-seo.git"
+  },
+  "homepage": "https://github.com/martintondel02/agent-seo#readme",
+  "bugs": {
+    "url": "https://github.com/martintondel02/agent-seo/issues"
+  }
+}

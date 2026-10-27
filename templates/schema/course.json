@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "@id": "https://example.com/courses/code-101#course",
+  "name": "CODE 101 Introduction to the subject",
+  "courseCode": "CODE 101",
+  "description": "One or two original sentences about the course, based on the official facts. Do not copy the institution's full description.",
+  "url": "https://example.com/courses/code-101",
+  "inLanguage": "en",
+  "provider": {
+    "@type": "CollegeOrUniversity",
+    "name": "Example University",
+    "url": "https://example.edu"
+  },
+  "educationalCredentialAwarded": "7.5 credits",
+  "educationalLevel": "Bachelor",
+  "teaches": [
+    "Topic one",
+    "Topic two"
+  ]
+}

@@ -1,0 +1,18 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Tool output
+audit-before.json
+audit-after.json
+audit-report.json
+crawl-report.json
+coverage/
+
+# Editor / agent
+.vscode/
+.idea/
+.claude/settings.local.json

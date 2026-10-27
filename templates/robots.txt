@@ -1,0 +1,56 @@
+# Content Signals — https://contentsignals.org/
+# Choose deliberately: ai-train / search / ai-input can be yes or no.
+User-Agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /app
+Disallow: /settings
+
+# AI agents you want to allow. Keep this explicit; a wildcard allow is not a
+# statement of intent.
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Claude-Web
+Allow: /
+
+User-Agent: Claude-User
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Perplexity-User
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Applebot
+Allow: /
+
+User-Agent: Applebot-Extended
+Allow: /
+
+User-Agent: Bravebot
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
+Host: https://example.com

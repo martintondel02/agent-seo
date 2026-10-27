@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://example.com/#organization",
+  "name": "Example",
+  "url": "https://example.com",
+  "description": "One sentence that says what the organization is and who it is for.",
+  "foundingDate": "2026",
+  "founder": { "@id": "https://example.com/#founder" },
+  "sameAs": [
+    "https://github.com/example",
+    "https://www.linkedin.com/company/example"
+  ],
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://example.com/logo.png"
+  }
+}

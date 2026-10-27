@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Example free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The core product is free; there is no credit card required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Example affiliated with the university?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Example is an independent project and is not affiliated with or endorsed by the university."
+      }
+    }
+  ]
+}

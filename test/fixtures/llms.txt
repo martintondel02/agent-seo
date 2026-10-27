@@ -1,0 +1,19 @@
+# Example
+
+> A short, accurate summary of the example project, written for both humans and language models.
+
+This file describes the public pages. All links point to markdown versions.
+
+- Name: Example
+- Price: free
+- Contact: hello@example.com
+
+## Pages
+
+- [Home](https://example.com/): the main page
+- [About](https://example.com/about.md): who runs it
+- [Pricing](https://example.com/pricing.md): what it costs
+
+## Optional
+
+- [Full text](https://example.com/llms-full.txt): every page in one file

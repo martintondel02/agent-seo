@@ -1,0 +1,34 @@
+# Example
+
+> Example is a one-sentence summary of what this site is, who it is for, and what makes it useful. This is the sentence an assistant can quote.
+
+Example is a [category] for [audience]. It [what it does] and [what it does not do]. Canonical origin: https://example.com
+
+- Name: Example
+- Website: https://example.com
+- Type: [product / service / documentation / publication]
+- Audience: [who]
+- Price: [free / from X]
+- Founder: [name, role]
+- Language: [language]
+- Independent: [yes/no, from whom]
+- Contact: hello@example.com
+
+## Pages
+
+- [Home](https://example.com/index.md): what the product is and who it is for
+- [Features](https://example.com/features.md): the main capabilities, with limits
+- [Pricing](https://example.com/pricing.md): what it costs and what is included
+- [About](https://example.com/about.md): who runs it and why
+- [Facts](https://example.com/facts.md): the quotable facts, dates and contact
+
+## Guides
+
+- [Getting started](https://example.com/guides/getting-started.md): the first 10 minutes
+- [How to do X](https://example.com/guides/how-to-x.md): a concrete method with examples
+
+## Optional
+
+- [Full text](https://example.com/llms-full.txt): every page in one file
+- [Sitemap](https://example.com/sitemap.xml): all indexable URLs
+- [auth.md](https://example.com/auth.md): agent registration and authentication facts

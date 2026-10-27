@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "@id": "https://example.com/#app",
+  "name": "Example",
+  "url": "https://example.com",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "Web",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "featureList": [
+    "First real feature",
+    "Second real feature",
+    "Third real feature"
+  ],
+  "publisher": { "@id": "https://example.com/#organization" }
+}

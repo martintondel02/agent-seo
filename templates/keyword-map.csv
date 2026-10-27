@@ -1,0 +1,9 @@
+query,intent,page,type,priority,volume,difficulty,status,notes
+"example product",navigational,/,landing,1,0,low,live,"brand; monitor, do not target a competitor's brand"
+"what is example",informational,/what-is-example,guide,1,0,low,planned,"answer-first definition"
+"example vs competitor",commercial,/compare/competitor,comparison,1,0,medium,planned,"honest table; where competitor wins"
+"example pricing",commercial,/pricing,landing,1,0,low,live,"price + what is included"
+"how to do x with example",informational,/guides/how-to-x,guide,2,0,low,planned,"numbered method + FAQ"
+"best example for y",commercial,/alternatives/for-y,comparison,2,0,medium,planned,"decision rule per audience"
+"example calculator",tool,/tools/calculator,tool,1,0,low,planned,"works without login"
+"item 123",transactional,/items/123,entity,3,0,low,planned,"programmatic; unique facts"

@@ -1,0 +1,13 @@
+# Content Signals — https://contentsignals.org/
+User-Agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
+Disallow: /private
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+Sitemap: __ORIGIN__/sitemap.xml
